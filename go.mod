@@ -11,8 +11,8 @@ replace (
 require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/gorilla/mux v1.8.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-getter v1.5.1
+	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-getter v1.6.2
 	github.com/hashicorp/go-retryablehttp v0.6.6
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hashicorp/hcl/v2 v2.8.2
@@ -31,7 +31,7 @@ require (
 	github.com/zclconf/go-cty v1.7.1
 	go.uber.org/zap v1.16.0
 	golang.org/x/mod v0.4.1 // indirect
-	golang.org/x/sys v0.0.0-20210218155724-8ebf48af031b
+	golang.org/x/sys v0.0.0-20220517195934-5e4e11fc645e
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	helm.sh/helm/v3 v3.4.0
